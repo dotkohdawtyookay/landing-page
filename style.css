@@ -128,7 +128,7 @@ a {
 .divvy-box {
     display: flex;
     justify-content: center;
-    gap: 7%;
+    
     height: 20em;
     width: 100%;
     
